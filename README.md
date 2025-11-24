@@ -1,4 +1,4 @@
-# 🚀 AI Engineer Portfolio – Nagesh Y. Gawade  
+# 🚀 AI Engineer Portfolio – Nagesh Gawade  
 ### Senior Python + GenAI Engineer | Tokyo, Japan
 
 Welcome to my AI/GenAI engineering portfolio.  
@@ -53,13 +53,13 @@ A minimal example that:
 
 ## 🏗 **Tech Stack**
 
-**Languages:** Python, JavaScript  
+**Languages:** Python  
 **AI/LLM:** LangChain, LangGraph, GPT-4, Llama, HuggingFace  
 **Vector DBs:** Pinecone, FAISS, Chroma  
 **Backend:** FastAPI, Flask  
 **Cloud:** AWS, GCP  
-**Automation:** n8n, Airflow  
-**Other:** Docker, GitHub Actions, Microservices
+**Automation:** n8n  
+**Other:** Docker, Microservices
 
 ---
 
@@ -75,8 +75,8 @@ This portfolio highlights my hands-on abilities to build:
 ---
 
 ## 📬 **Contact**
-- **LinkedIn:** (your link)  
-- **GitHub:** (your profile)  
+- **LinkedIn:** https://www.linkedin.com/in/nagesh-gawade-9730a422
+- **GitHub:** https://github.com/gawadenagesh
 - **Location:** Tokyo, Japan  
 
 Feel free to explore the projects, open issues, or reach out for collaboration.
