@@ -1,0 +1,1 @@
+# Pinecone/FAISS/Chroma adapters
