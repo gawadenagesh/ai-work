@@ -1,4 +1,4 @@
-# 🚀 AI Engineer Portfolio – Nagesh Gawade  
+# Nagesh Gawade  
 ### Senior Python + GenAI Engineer | Tokyo, Japan
 
 Welcome to my AI/GenAI engineering portfolio.  
