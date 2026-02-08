@@ -1,0 +1,7 @@
+gradio
+llama-index-embeddings-mixedbreadai
+llama-index-llms-groq
+llama-index
+llama-parse
+python-dotenv
+llama-index-readers-file
